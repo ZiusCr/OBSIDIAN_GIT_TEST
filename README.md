@@ -6,3 +6,5 @@ editado
 git config --global user.email 'o.criado.p@gmail.com'
 git config --global user.name 'Oscar'
 
+
+esto es una prueba
